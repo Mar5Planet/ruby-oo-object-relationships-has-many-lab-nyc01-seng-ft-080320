@@ -6,7 +6,7 @@ class Artist
   end
   
   def songs 
-    @song = ['Song1', 'Song2', 'Song3', 'Song4']
+    @songs = ['Song1', 'Song2', 'Song3', 'Song4']
   end 
   
   def add_song(song)
