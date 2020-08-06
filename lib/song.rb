@@ -18,7 +18,7 @@ class Song
   end 
   
   def artist_name 
-    @artist
+    if artist 
   end 
 end 
 
